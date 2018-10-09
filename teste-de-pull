@@ -1,1 +1,3 @@
-fazendo teste com o comando pull
+Quando nao estiver aceitando o comando pull executar a linha abaixo
+
+git pull origin master --allow-unrelated-histories
